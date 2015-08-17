@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "angular-mocks": "~1.4.4",
+    "angular": "~1.4.4",
+    "chai": "~3.2.0",
+    "karma": "~0.13.9",
+    "karma-chrome-launcher": "~0.2.0",
+    "karma-chai": "~0.1.0",
+    "karma-mocha": "~0.2.0",
+    "phantomjs": "~1.9.18",
+    "karma-phantomjs-launcher": "~0.2.1"
+  },
+  "devDependencies": {
+    "mocha": "~2.2.5"
+  }
+}
